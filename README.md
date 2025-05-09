@@ -6,9 +6,9 @@ This is an intelligent chatbot for answering questions related to the CTSE cours
 
 ## 📁 Project Structure
 
-CTSE_ML_CHATBOT/
-Chroma_db/ # Stores vector database
-data_sets/ # Place your PDF/PPTX lecture notes here
+CTSE_ML_CHATBOT/ \n
+Chroma_db # Stores vector database
+data_sets # Place your PDF/PPTX lecture notes here
 .env # Environment file for storing API key
 requirements.txt # Python dependencies
 chatbot.ipynb # Jupyter notebook version
